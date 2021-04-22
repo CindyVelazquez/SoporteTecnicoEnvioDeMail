@@ -1,0 +1,125 @@
+﻿
+@using karenvelazquez.Controllers
+@{
+    ViewBag.Title = "HomeController";
+}
+@*<style>
+    body {
+        overflow-x: hidden;
+        font-family: "Poppins", sans-serif;
+        background: #616161 !important;
+        color: black;
+        font-size: 16px;
+    }
+
+    .nav-tabs li a {
+        color: black;
+    }
+</style>
+<h3 class="text-center">Consultas</h3>
+<ul class="nav nav-tabs">
+    <li class="active"><a data-toggle="tab" href="#home">Informacion</a></li>
+    <li><a data-toggle="tab" href="#menu1">Contacto</a></li>
+
+</ul>
+
+<div class="tab-content">
+    <div id="home" class="tab-pane fade in active">
+        <h2>Turnos</h2>
+        <h4>Para solicitar un turno puede comunicarse al:</h4><h5>Celular: 1130782995<br />E-mail: kcindyvelazquez@gmail.com</h5>
+    </div>
+    <br />
+    <br />
+    <br />
+    <div id="menu1" class="tab-pane fade">
+        <h2>Comentarios</h2>
+        <div class="container">
+
+            <div class="row test">
+                <div class="col-md-4">
+                    <p>Ubicacion</p>
+                    <p><span class="glyphicon glyphicon-map-marker"></span>Argentina - Buenos Aires</p>
+                    <p><span class="glyphicon glyphicon-phone"></span>Celular: +54 1530782995</p>
+                    <p><span class="glyphicon glyphicon-envelope"></span>Email: kcindyvelazquez@gmail.com</p>
+                </div>*@
+
+                <form method="post" enctype="multipar/form-data" style="width:600px">
+                    <div>
+                        <label>Email</label>
+                        <input class="from-control" type="email" name="para" placeholder="Email" />
+
+                    </div>
+                    <br />
+                    <div>
+                        <label>Nombre</label>
+                        <input class="form-control" type="text" name="asunto" placeholder="Nombre" />
+
+                    </div>
+                    <br />
+                    <div>
+                        <label>Comentario</label>
+                        @*<textarea style="width:600px; height: 150px" ; name="mensaje" placeholder="Escribir su mensaje" />*@
+                        <input type="text" name="mensaje"  placeholder="Escribir su mensaje" />
+
+                    </div>
+                    <br />
+                    @*<div>
+                        <input type="file" class="btn-default" name="fichero" />
+                    </div>*@
+                    <div>
+                        <button id="enviar" name="env" class="btn btn-primary" type="submit">Enviar</button>
+                    </div>
+                </form>
+
+                <h3 style="color:blue">
+                    @ViewBag.Mensaje
+                </h3>
+                <br />
+                <h3 style="color:red">
+                    @ViewBag.Error
+                </h3>
+
+            @*</div>
+        </div>
+    </div>
+
+</div>*@
+<br />
+<br />
+@*<from method="post" enctype="multipar/form-data" style="width:600px">
+        <div>
+            <label>Email</label>
+            <input class="from-control" type="email" name="para" placeholder="Email" />
+
+        </div>
+        <br/>
+        <div>
+            <label>Nombre</label>
+            <input class="form-control" type ="text" name="asunto" placeholder="Nombre" />
+
+        </div>
+        <br />
+        <div>
+            <label>Comentario</label>
+            <textarea style="width:600px; height: 150px";  name="mensaje" placeholder="Escribir su mensaje" />
+
+        </div>
+        <br />
+        <div>
+            <input type="file" class="btn-default" name="fichero" />
+        </div>
+        <div>
+            <button id="enviar" class="btn btn-primary" type="submit">Enviar</button>
+        </div>
+    </from>
+
+    <h3 style="color:blue">
+        @ViewBag.Mensaje
+    </h3>
+    <br />
+    <h3 style="color:red">
+        @ViewBag.Error
+    </h3>*@
+
+
+

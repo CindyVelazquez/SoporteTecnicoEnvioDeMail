@@ -1,0 +1,27 @@
+var staticResourceMMap = {"heatmap":{"":1514862364000},"heatmapmock":{"":1514862364000},"nouislider":{"":1514862365000},"leaflet":{"":1514862364000},"countup7":{"":1514862364000},"leaflet1":{"":1514862365000}};
+
+(function() { 
+	function initResourceGVP() {
+		 if (!$A.getContext() || !$A.get('$Resource')) { 
+			 $A.addValueProvider('$Resource', 
+			 { 
+				 merge : function() {}, 
+				 isStorable : function() { return false; }, 
+				 get : function(qualifiedName) { 
+					 var ns, name; 
+					 var nsDelim = qualifiedName.indexOf('__'); 
+					 if (nsDelim >= 0) { ns = qualifiedName.substring(0, nsDelim); name = qualifiedName.substring(nsDelim + 2); } else { name = qualifiedName;  } 
+					 var srMap = staticResourceMMap[name]; 
+					 if (!srMap) { return null;} 
+					 if (!ns) { ns = Object.keys(srMap)[0] } 
+					 var modStamp = srMap[ns];  
+					 if (!modStamp) { return null;} 
+					 var pathPrefix = $A.get('$SfdcSite.pathPrefix'); 
+					 var absoluteURL = $A.get('$Absolute.url'); 
+					 return ((absoluteURL) ? absoluteURL : ((pathPrefix) ? pathPrefix : '')) + '/resource/' + modStamp + '/' + ((ns ==='') ? name : ns + '__' + name); 
+				 } 
+			 }); 
+		 } 
+	 }
+if(window.Aura&&window.Aura.frameworkJsReady)initResourceGVP();else{var Aura=window.Aura||(window.Aura={});Aura.beforeFrameworkInit=Aura.beforeFrameworkInit||[],window.Aura.beforeFrameworkInit.push(initResourceGVP)}
+})();

@@ -1,0 +1,210 @@
+E:\karenvelazquez\karenvelazquez\bin\karenvelazquez.dll.config
+E:\karenvelazquez\karenvelazquez\bin\karenvelazquez.dll
+E:\karenvelazquez\karenvelazquez\bin\karenvelazquez.pdb
+E:\karenvelazquez\karenvelazquez\bin\Antlr3.Runtime.dll
+E:\karenvelazquez\karenvelazquez\bin\EntityFramework.dll
+E:\karenvelazquez\karenvelazquez\bin\EntityFramework.SqlServer.dll
+E:\karenvelazquez\karenvelazquez\bin\Microsoft.AspNet.Identity.Core.dll
+E:\karenvelazquez\karenvelazquez\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\karenvelazquez\karenvelazquez\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\karenvelazquez\karenvelazquez\bin\Microsoft.Owin.dll
+E:\karenvelazquez\karenvelazquez\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\karenvelazquez\karenvelazquez\bin\Microsoft.Owin.Security.Cookies.dll
+E:\karenvelazquez\karenvelazquez\bin\Microsoft.Owin.Security.dll
+E:\karenvelazquez\karenvelazquez\bin\Microsoft.Owin.Security.Facebook.dll
+E:\karenvelazquez\karenvelazquez\bin\Microsoft.Owin.Security.Google.dll
+E:\karenvelazquez\karenvelazquez\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\karenvelazquez\karenvelazquez\bin\Microsoft.Owin.Security.OAuth.dll
+E:\karenvelazquez\karenvelazquez\bin\Microsoft.Owin.Security.Twitter.dll
+E:\karenvelazquez\karenvelazquez\bin\Microsoft.Web.Infrastructure.dll
+E:\karenvelazquez\karenvelazquez\bin\Newtonsoft.Json.dll
+E:\karenvelazquez\karenvelazquez\bin\Owin.dll
+E:\karenvelazquez\karenvelazquez\bin\System.Web.Helpers.dll
+E:\karenvelazquez\karenvelazquez\bin\System.Web.Mvc.dll
+E:\karenvelazquez\karenvelazquez\bin\System.Web.Optimization.dll
+E:\karenvelazquez\karenvelazquez\bin\System.Web.Razor.dll
+E:\karenvelazquez\karenvelazquez\bin\System.Web.WebPages.Deployment.dll
+E:\karenvelazquez\karenvelazquez\bin\WebGrease.dll
+E:\karenvelazquez\karenvelazquez\bin\System.Web.Helpers.xml
+E:\karenvelazquez\karenvelazquez\bin\System.Web.Mvc.xml
+E:\karenvelazquez\karenvelazquez\bin\System.Web.Optimization.xml
+E:\karenvelazquez\karenvelazquez\bin\System.Web.Razor.xml
+E:\karenvelazquez\karenvelazquez\bin\System.Web.WebPages.xml
+E:\karenvelazquez\karenvelazquez\bin\System.Web.WebPages.Deployment.xml
+E:\karenvelazquez\karenvelazquez\bin\System.Web.WebPages.Razor.xml
+E:\karenvelazquez\karenvelazquez\bin\Antlr3.Runtime.pdb
+E:\karenvelazquez\karenvelazquez\bin\Newtonsoft.Json.xml
+E:\karenvelazquez\karenvelazquez\bin\EntityFramework.xml
+E:\karenvelazquez\karenvelazquez\bin\EntityFramework.SqlServer.xml
+E:\karenvelazquez\karenvelazquez\bin\Microsoft.AspNet.Identity.Core.xml
+E:\karenvelazquez\karenvelazquez\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\karenvelazquez\karenvelazquez\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\karenvelazquez\karenvelazquez\bin\Microsoft.Owin.xml
+E:\karenvelazquez\karenvelazquez\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\karenvelazquez\karenvelazquez\bin\Microsoft.Owin.Security.xml
+E:\karenvelazquez\karenvelazquez\bin\Microsoft.Owin.Security.Facebook.xml
+E:\karenvelazquez\karenvelazquez\bin\Microsoft.Owin.Security.Cookies.xml
+E:\karenvelazquez\karenvelazquez\bin\Microsoft.Owin.Security.OAuth.xml
+E:\karenvelazquez\karenvelazquez\bin\Microsoft.Owin.Security.Google.xml
+E:\karenvelazquez\karenvelazquez\bin\Microsoft.Owin.Security.Twitter.xml
+E:\karenvelazquez\karenvelazquez\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\karenvelazquez\karenvelazquez\obj\Debug\karenvelazquez.csprojResolveAssemblyReference.cache
+E:\karenvelazquez\karenvelazquez\obj\Debug\karenvelazquez.dll
+E:\karenvelazquez\karenvelazquez\obj\Debug\karenvelazquez.pdb
+C:\karenvelazquez\karenvelazquez\bin\karenvelazquez.dll.config
+C:\karenvelazquez\karenvelazquez\bin\karenvelazquez.dll
+C:\karenvelazquez\karenvelazquez\bin\karenvelazquez.pdb
+C:\karenvelazquez\karenvelazquez\bin\Antlr3.Runtime.dll
+C:\karenvelazquez\karenvelazquez\bin\EntityFramework.dll
+C:\karenvelazquez\karenvelazquez\bin\EntityFramework.SqlServer.dll
+C:\karenvelazquez\karenvelazquez\bin\Microsoft.AspNet.Identity.Core.dll
+C:\karenvelazquez\karenvelazquez\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\karenvelazquez\karenvelazquez\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\karenvelazquez\karenvelazquez\bin\Microsoft.Owin.dll
+C:\karenvelazquez\karenvelazquez\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\karenvelazquez\karenvelazquez\bin\Microsoft.Owin.Security.Cookies.dll
+C:\karenvelazquez\karenvelazquez\bin\Microsoft.Owin.Security.dll
+C:\karenvelazquez\karenvelazquez\bin\Microsoft.Owin.Security.Facebook.dll
+C:\karenvelazquez\karenvelazquez\bin\Microsoft.Owin.Security.Google.dll
+C:\karenvelazquez\karenvelazquez\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\karenvelazquez\karenvelazquez\bin\Microsoft.Owin.Security.OAuth.dll
+C:\karenvelazquez\karenvelazquez\bin\Microsoft.Owin.Security.Twitter.dll
+C:\karenvelazquez\karenvelazquez\bin\Microsoft.Web.Infrastructure.dll
+C:\karenvelazquez\karenvelazquez\bin\Newtonsoft.Json.dll
+C:\karenvelazquez\karenvelazquez\bin\Owin.dll
+C:\karenvelazquez\karenvelazquez\bin\System.Web.Helpers.dll
+C:\karenvelazquez\karenvelazquez\bin\System.Web.Mvc.dll
+C:\karenvelazquez\karenvelazquez\bin\System.Web.Optimization.dll
+C:\karenvelazquez\karenvelazquez\bin\System.Web.Razor.dll
+C:\karenvelazquez\karenvelazquez\bin\System.Web.WebPages.Deployment.dll
+C:\karenvelazquez\karenvelazquez\bin\WebGrease.dll
+C:\karenvelazquez\karenvelazquez\bin\System.Web.Helpers.xml
+C:\karenvelazquez\karenvelazquez\bin\System.Web.Mvc.xml
+C:\karenvelazquez\karenvelazquez\bin\System.Web.Optimization.xml
+C:\karenvelazquez\karenvelazquez\bin\System.Web.Razor.xml
+C:\karenvelazquez\karenvelazquez\bin\System.Web.WebPages.Deployment.xml
+C:\karenvelazquez\karenvelazquez\bin\Antlr3.Runtime.pdb
+C:\karenvelazquez\karenvelazquez\bin\Newtonsoft.Json.xml
+C:\karenvelazquez\karenvelazquez\bin\EntityFramework.xml
+C:\karenvelazquez\karenvelazquez\bin\EntityFramework.SqlServer.xml
+C:\karenvelazquez\karenvelazquez\bin\Microsoft.AspNet.Identity.Core.xml
+C:\karenvelazquez\karenvelazquez\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\karenvelazquez\karenvelazquez\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\karenvelazquez\karenvelazquez\bin\Microsoft.Owin.xml
+C:\karenvelazquez\karenvelazquez\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\karenvelazquez\karenvelazquez\bin\Microsoft.Owin.Security.xml
+C:\karenvelazquez\karenvelazquez\bin\Microsoft.Owin.Security.Facebook.xml
+C:\karenvelazquez\karenvelazquez\bin\Microsoft.Owin.Security.Cookies.xml
+C:\karenvelazquez\karenvelazquez\bin\Microsoft.Owin.Security.OAuth.xml
+C:\karenvelazquez\karenvelazquez\bin\Microsoft.Owin.Security.Google.xml
+C:\karenvelazquez\karenvelazquez\bin\Microsoft.Owin.Security.Twitter.xml
+C:\karenvelazquez\karenvelazquez\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\karenvelazquez\karenvelazquez\obj\Debug\karenvelazquez.csprojResolveAssemblyReference.cache
+C:\karenvelazquez\karenvelazquez\obj\Debug\karenvelazquez.dll
+C:\karenvelazquez\karenvelazquez\obj\Debug\karenvelazquez.pdb
+C:\Users\acidburn\Documents\cosas de cindy\proyectos.net\Proyecto--master\karenvelazquez\bin\karenvelazquez.dll.config
+C:\Users\acidburn\Documents\cosas de cindy\proyectos.net\Proyecto--master\karenvelazquez\bin\karenvelazquez.dll
+C:\Users\acidburn\Documents\cosas de cindy\proyectos.net\Proyecto--master\karenvelazquez\bin\karenvelazquez.pdb
+C:\Users\acidburn\Documents\cosas de cindy\proyectos.net\Proyecto--master\karenvelazquez\bin\Antlr3.Runtime.dll
+C:\Users\acidburn\Documents\cosas de cindy\proyectos.net\Proyecto--master\karenvelazquez\bin\EntityFramework.dll
+C:\Users\acidburn\Documents\cosas de cindy\proyectos.net\Proyecto--master\karenvelazquez\bin\EntityFramework.SqlServer.dll
+C:\Users\acidburn\Documents\cosas de cindy\proyectos.net\Proyecto--master\karenvelazquez\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\acidburn\Documents\cosas de cindy\proyectos.net\Proyecto--master\karenvelazquez\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\acidburn\Documents\cosas de cindy\proyectos.net\Proyecto--master\karenvelazquez\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\acidburn\Documents\cosas de cindy\proyectos.net\Proyecto--master\karenvelazquez\bin\Microsoft.Owin.dll
+C:\Users\acidburn\Documents\cosas de cindy\proyectos.net\Proyecto--master\karenvelazquez\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\acidburn\Documents\cosas de cindy\proyectos.net\Proyecto--master\karenvelazquez\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\acidburn\Documents\cosas de cindy\proyectos.net\Proyecto--master\karenvelazquez\bin\Microsoft.Owin.Security.dll
+C:\Users\acidburn\Documents\cosas de cindy\proyectos.net\Proyecto--master\karenvelazquez\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\acidburn\Documents\cosas de cindy\proyectos.net\Proyecto--master\karenvelazquez\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\acidburn\Documents\cosas de cindy\proyectos.net\Proyecto--master\karenvelazquez\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\acidburn\Documents\cosas de cindy\proyectos.net\Proyecto--master\karenvelazquez\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\acidburn\Documents\cosas de cindy\proyectos.net\Proyecto--master\karenvelazquez\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\acidburn\Documents\cosas de cindy\proyectos.net\Proyecto--master\karenvelazquez\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\acidburn\Documents\cosas de cindy\proyectos.net\Proyecto--master\karenvelazquez\bin\Newtonsoft.Json.dll
+C:\Users\acidburn\Documents\cosas de cindy\proyectos.net\Proyecto--master\karenvelazquez\bin\Owin.dll
+C:\Users\acidburn\Documents\cosas de cindy\proyectos.net\Proyecto--master\karenvelazquez\bin\System.Web.Helpers.dll
+C:\Users\acidburn\Documents\cosas de cindy\proyectos.net\Proyecto--master\karenvelazquez\bin\System.Web.Mvc.dll
+C:\Users\acidburn\Documents\cosas de cindy\proyectos.net\Proyecto--master\karenvelazquez\bin\System.Web.Optimization.dll
+C:\Users\acidburn\Documents\cosas de cindy\proyectos.net\Proyecto--master\karenvelazquez\bin\System.Web.Razor.dll
+C:\Users\acidburn\Documents\cosas de cindy\proyectos.net\Proyecto--master\karenvelazquez\bin\System.Web.WebPages.Deployment.dll
+C:\Users\acidburn\Documents\cosas de cindy\proyectos.net\Proyecto--master\karenvelazquez\bin\WebGrease.dll
+C:\Users\acidburn\Documents\cosas de cindy\proyectos.net\Proyecto--master\karenvelazquez\bin\System.Web.Helpers.xml
+C:\Users\acidburn\Documents\cosas de cindy\proyectos.net\Proyecto--master\karenvelazquez\bin\System.Web.Mvc.xml
+C:\Users\acidburn\Documents\cosas de cindy\proyectos.net\Proyecto--master\karenvelazquez\bin\System.Web.Optimization.xml
+C:\Users\acidburn\Documents\cosas de cindy\proyectos.net\Proyecto--master\karenvelazquez\bin\System.Web.Razor.xml
+C:\Users\acidburn\Documents\cosas de cindy\proyectos.net\Proyecto--master\karenvelazquez\bin\System.Web.WebPages.Deployment.xml
+C:\Users\acidburn\Documents\cosas de cindy\proyectos.net\Proyecto--master\karenvelazquez\bin\Antlr3.Runtime.pdb
+C:\Users\acidburn\Documents\cosas de cindy\proyectos.net\Proyecto--master\karenvelazquez\bin\Newtonsoft.Json.xml
+C:\Users\acidburn\Documents\cosas de cindy\proyectos.net\Proyecto--master\karenvelazquez\bin\EntityFramework.xml
+C:\Users\acidburn\Documents\cosas de cindy\proyectos.net\Proyecto--master\karenvelazquez\bin\EntityFramework.SqlServer.xml
+C:\Users\acidburn\Documents\cosas de cindy\proyectos.net\Proyecto--master\karenvelazquez\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\acidburn\Documents\cosas de cindy\proyectos.net\Proyecto--master\karenvelazquez\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\acidburn\Documents\cosas de cindy\proyectos.net\Proyecto--master\karenvelazquez\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\acidburn\Documents\cosas de cindy\proyectos.net\Proyecto--master\karenvelazquez\bin\Microsoft.Owin.xml
+C:\Users\acidburn\Documents\cosas de cindy\proyectos.net\Proyecto--master\karenvelazquez\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\acidburn\Documents\cosas de cindy\proyectos.net\Proyecto--master\karenvelazquez\bin\Microsoft.Owin.Security.xml
+C:\Users\acidburn\Documents\cosas de cindy\proyectos.net\Proyecto--master\karenvelazquez\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\acidburn\Documents\cosas de cindy\proyectos.net\Proyecto--master\karenvelazquez\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\acidburn\Documents\cosas de cindy\proyectos.net\Proyecto--master\karenvelazquez\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\acidburn\Documents\cosas de cindy\proyectos.net\Proyecto--master\karenvelazquez\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\acidburn\Documents\cosas de cindy\proyectos.net\Proyecto--master\karenvelazquez\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\acidburn\Documents\cosas de cindy\proyectos.net\Proyecto--master\karenvelazquez\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\acidburn\Documents\cosas de cindy\proyectos.net\Proyecto--master\karenvelazquez\obj\Debug\karenvelazquez.csprojAssemblyReference.cache
+C:\Users\acidburn\Documents\cosas de cindy\proyectos.net\Proyecto--master\karenvelazquez\obj\Debug\karenvelazquez.csproj.CoreCompileInputs.cache
+C:\Users\acidburn\Documents\cosas de cindy\proyectos.net\Proyecto--master\karenvelazquez\obj\Debug\karenvelazquez.csproj.CopyComplete
+C:\Users\acidburn\Documents\cosas de cindy\proyectos.net\Proyecto--master\karenvelazquez\obj\Debug\karenvelazquez.dll
+C:\Users\acidburn\Documents\cosas de cindy\proyectos.net\Proyecto--master\karenvelazquez\obj\Debug\karenvelazquez.pdb
+C:\Users\acidburn\Documents\cosas de cindy\Proyecto--master\karenvelazquez\bin\karenvelazquez.dll.config
+C:\Users\acidburn\Documents\cosas de cindy\Proyecto--master\karenvelazquez\bin\karenvelazquez.dll
+C:\Users\acidburn\Documents\cosas de cindy\Proyecto--master\karenvelazquez\bin\karenvelazquez.pdb
+C:\Users\acidburn\Documents\cosas de cindy\Proyecto--master\karenvelazquez\bin\Antlr3.Runtime.dll
+C:\Users\acidburn\Documents\cosas de cindy\Proyecto--master\karenvelazquez\bin\EntityFramework.dll
+C:\Users\acidburn\Documents\cosas de cindy\Proyecto--master\karenvelazquez\bin\EntityFramework.SqlServer.dll
+C:\Users\acidburn\Documents\cosas de cindy\Proyecto--master\karenvelazquez\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\acidburn\Documents\cosas de cindy\Proyecto--master\karenvelazquez\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\acidburn\Documents\cosas de cindy\Proyecto--master\karenvelazquez\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\acidburn\Documents\cosas de cindy\Proyecto--master\karenvelazquez\bin\Microsoft.Owin.dll
+C:\Users\acidburn\Documents\cosas de cindy\Proyecto--master\karenvelazquez\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\acidburn\Documents\cosas de cindy\Proyecto--master\karenvelazquez\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\acidburn\Documents\cosas de cindy\Proyecto--master\karenvelazquez\bin\Microsoft.Owin.Security.dll
+C:\Users\acidburn\Documents\cosas de cindy\Proyecto--master\karenvelazquez\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\acidburn\Documents\cosas de cindy\Proyecto--master\karenvelazquez\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\acidburn\Documents\cosas de cindy\Proyecto--master\karenvelazquez\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\acidburn\Documents\cosas de cindy\Proyecto--master\karenvelazquez\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\acidburn\Documents\cosas de cindy\Proyecto--master\karenvelazquez\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\acidburn\Documents\cosas de cindy\Proyecto--master\karenvelazquez\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\acidburn\Documents\cosas de cindy\Proyecto--master\karenvelazquez\bin\Newtonsoft.Json.dll
+C:\Users\acidburn\Documents\cosas de cindy\Proyecto--master\karenvelazquez\bin\Owin.dll
+C:\Users\acidburn\Documents\cosas de cindy\Proyecto--master\karenvelazquez\bin\System.Web.Helpers.dll
+C:\Users\acidburn\Documents\cosas de cindy\Proyecto--master\karenvelazquez\bin\System.Web.Mvc.dll
+C:\Users\acidburn\Documents\cosas de cindy\Proyecto--master\karenvelazquez\bin\System.Web.Optimization.dll
+C:\Users\acidburn\Documents\cosas de cindy\Proyecto--master\karenvelazquez\bin\System.Web.Razor.dll
+C:\Users\acidburn\Documents\cosas de cindy\Proyecto--master\karenvelazquez\bin\System.Web.WebPages.Deployment.dll
+C:\Users\acidburn\Documents\cosas de cindy\Proyecto--master\karenvelazquez\bin\WebGrease.dll
+C:\Users\acidburn\Documents\cosas de cindy\Proyecto--master\karenvelazquez\bin\System.Web.Helpers.xml
+C:\Users\acidburn\Documents\cosas de cindy\Proyecto--master\karenvelazquez\bin\System.Web.Mvc.xml
+C:\Users\acidburn\Documents\cosas de cindy\Proyecto--master\karenvelazquez\bin\System.Web.Optimization.xml
+C:\Users\acidburn\Documents\cosas de cindy\Proyecto--master\karenvelazquez\bin\System.Web.Razor.xml
+C:\Users\acidburn\Documents\cosas de cindy\Proyecto--master\karenvelazquez\bin\System.Web.WebPages.Deployment.xml
+C:\Users\acidburn\Documents\cosas de cindy\Proyecto--master\karenvelazquez\bin\Antlr3.Runtime.pdb
+C:\Users\acidburn\Documents\cosas de cindy\Proyecto--master\karenvelazquez\bin\Newtonsoft.Json.xml
+C:\Users\acidburn\Documents\cosas de cindy\Proyecto--master\karenvelazquez\bin\EntityFramework.xml
+C:\Users\acidburn\Documents\cosas de cindy\Proyecto--master\karenvelazquez\bin\EntityFramework.SqlServer.xml
+C:\Users\acidburn\Documents\cosas de cindy\Proyecto--master\karenvelazquez\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\acidburn\Documents\cosas de cindy\Proyecto--master\karenvelazquez\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\acidburn\Documents\cosas de cindy\Proyecto--master\karenvelazquez\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\acidburn\Documents\cosas de cindy\Proyecto--master\karenvelazquez\bin\Microsoft.Owin.xml
+C:\Users\acidburn\Documents\cosas de cindy\Proyecto--master\karenvelazquez\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\acidburn\Documents\cosas de cindy\Proyecto--master\karenvelazquez\bin\Microsoft.Owin.Security.xml
+C:\Users\acidburn\Documents\cosas de cindy\Proyecto--master\karenvelazquez\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\acidburn\Documents\cosas de cindy\Proyecto--master\karenvelazquez\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\acidburn\Documents\cosas de cindy\Proyecto--master\karenvelazquez\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\acidburn\Documents\cosas de cindy\Proyecto--master\karenvelazquez\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\acidburn\Documents\cosas de cindy\Proyecto--master\karenvelazquez\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\acidburn\Documents\cosas de cindy\Proyecto--master\karenvelazquez\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\acidburn\Documents\cosas de cindy\Proyecto--master\karenvelazquez\obj\Debug\karenvelazquez.csprojAssemblyReference.cache
+C:\Users\acidburn\Documents\cosas de cindy\Proyecto--master\karenvelazquez\obj\Debug\karenvelazquez.csproj.CoreCompileInputs.cache
+C:\Users\acidburn\Documents\cosas de cindy\Proyecto--master\karenvelazquez\obj\Debug\karenvelazquez.csproj.CopyComplete
+C:\Users\acidburn\Documents\cosas de cindy\Proyecto--master\karenvelazquez\obj\Debug\karenvelazquez.dll
+C:\Users\acidburn\Documents\cosas de cindy\Proyecto--master\karenvelazquez\obj\Debug\karenvelazquez.pdb

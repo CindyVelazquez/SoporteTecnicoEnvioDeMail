@@ -1,0 +1,41 @@
+﻿
+@{
+    ViewBag.Title = "EnviarCorreo";
+}
+
+<h2>EnviarCorreo</h2>
+
+<form method="post" enctype="multipar/form-data" style="width:600px">
+    <div>
+        <label>Email</label>
+        <input class="from-control" type="email" name="para" placeholder="Email" />
+
+    </div>
+    <br />
+    <div>
+        <label>Nombre</label>
+        <input class="form-control" type="text" name="asunto" placeholder="Nombre" />
+
+    </div>
+    <br />
+    <div>
+        <label>Comentario</label>
+        <textarea style="width:600px; height: 150px" ; name="mensaje" placeholder="Escribir su mensaje" />
+
+    </div>
+    <br />
+    <div>
+        <input type="file" class="btn-default" name="fichero" />
+    </div>
+    <div>
+        <button id="enviar" class="btn btn-primary" type="submit">Enviar</button>
+    </div>
+</form>
+
+<h3 style="color:blue">
+    @ViewBag.Mensaje
+</h3>
+<br />
+<h3 style="color:red">
+    @ViewBag.Error
+</h3>

@@ -1,0 +1,48 @@
+﻿@model IEnumerable<karenvelazquez.Models.estado>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<style>
+    body{
+        background:	#708090;
+        color:black;
+    }
+    a {
+  color: white;
+  text-decoration: none;
+}
+    h2{
+        text-align:center;
+    }
+
+</style>
+
+<h2>Estado de tu servicio</h2>
+
+<p>
+    @Html.ActionLink("Crear Nuevo", "Crear")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.nombre)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.nombre)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Editar", new { id=item.idEstado }) |
+            @Html.ActionLink("Detalles", "Detalles", new { id=item.idEstado }) |
+            @Html.ActionLink("Borrar", "Borrar", new { id=item.idEstado })
+        </td>
+    </tr>
+}
+
+</table>
